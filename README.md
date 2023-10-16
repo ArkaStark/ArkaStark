@@ -2,9 +2,9 @@
 
 <h2> A C based organism </h2>
 
-- 👋 Hi, I’m @ArkaStark
+- 👋 Hi, I’m Arka
 - 👀 I’m interested in ... **Artificial Intelligence, Robotics, Software Development and things to do with Si in general**
-- 🌱 I’m currently learning ... **Computer Vision, AI**
+- 🌱 I’m currently learning ... **Robotics, Computer Vision, AI**
 - 💞️ I’m looking to collaborate on ... **A chess game and its AI**
 - 📫 How to reach me ... **Email or LinkedIn**
 
